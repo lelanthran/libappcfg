@@ -1,0 +1,2 @@
+# libappcfg
+Application configuration library
